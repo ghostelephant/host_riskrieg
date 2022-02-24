@@ -2,7 +2,7 @@
   "flavor": "COMMUNITY",
   "availability": "AVAILABLE",
   "alignment": {
-    "vertical": "BOTTOM",
+    "vertical": "TOP",
     "horizontal": "LEFT"
   },
   "autogenTitle": true
