@@ -1,5 +1,5 @@
 const {exec} = require("child_process");
-const start = exec("sh shell_run.sh",
+const start = exec("java -jar RiskriegBot.jar",
     (err, stdout, stderr) => {
         console.log(stdout);
         console.log(stderr);
