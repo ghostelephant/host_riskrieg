@@ -1,0 +1,9 @@
+{
+  "flavor": "COMMUNITY",
+  "availability": "UNAVAILABLE",
+  "alignment": {
+    "vertical": "BOTTOM",
+    "horizontal": "LEFT"
+  },
+  "autogenTitle": true
+}

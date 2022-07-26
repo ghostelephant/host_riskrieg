@@ -2,3 +2,4 @@ download/
 res/auth/auth.json
 res/saves/*
 node_modules/*
+res/colors/players_backup.json

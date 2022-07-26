@@ -1,0 +1,148 @@
+{
+  "colorSet": [
+    {
+      "id": {
+        "value": 0
+      },
+      "name": "Snow",
+      "r": 255,
+      "g": 255,
+      "b": 255
+    },
+    {
+      "id": {
+        "value": 1
+      },
+      "name": "Paper",
+      "r": 238,
+      "g": 238,
+      "b": 238
+    },
+    {
+      "id": {
+        "value": 2
+      },
+      "name": "Cloud",
+      "r": 221,
+      "g": 221,
+      "b": 221
+    },
+    {
+      "id": {
+        "value": 3
+      },
+      "name": "Fog",
+      "r": 204,
+      "g": 204,
+      "b": 204
+    },
+    {
+      "id": {
+        "value": 4
+      },
+      "name": "Platinum",
+      "r": 187,
+      "g": 187,
+      "b": 187
+    },
+    {
+      "id": {
+        "value": 5
+      },
+      "name": "Cinderblock",
+      "r": 170,
+      "g": 170,
+      "b": 170
+    },
+    {
+      "id": {
+        "value": 6
+      },
+      "name": "Stainless Steel",
+      "r": 153,
+      "g": 153,
+      "b": 153
+    },
+    {
+      "id": {
+        "value": 7
+      },
+      "name": "Duct tape",
+      "r": 136,
+      "g": 136,
+      "b": 136
+    },
+    {
+      "id": {
+        "value": 8
+      },
+      "name": "Wet Cement",
+      "r": 119,
+      "g": 119,
+      "b": 119
+    },
+    {
+      "id": {
+        "value": 9
+      },
+      "name": "Gunmetal",
+      "r": 102,
+      "g": 102,
+      "b": 102
+    },
+    {
+      "id": {
+        "value": 10
+      },
+      "name": "Smoke",
+      "r": 85,
+      "g": 85,
+      "b": 85
+    },
+    {
+      "id": {
+        "value": 11
+      },
+      "name": "Graphite",
+      "r": 68,
+      "g": 68,
+      "b": 68
+    },
+    {
+      "id": {
+        "value": 12
+      },
+      "name": "Peppercorn",
+      "r": 51,
+      "g": 51,
+      "b": 51
+    },
+    {
+      "id": {
+        "value": 13
+      },
+      "name": "Charcoal",
+      "r": 34,
+      "g": 34,
+      "b": 34
+    },
+    {
+      "id": {
+        "value": 14
+      },
+      "name": "Obsidian",
+      "r": 17,
+      "g": 17,
+      "b": 17
+    },
+    {
+      "id": {
+        "value": 15
+      },
+      "name": "Vantablack",
+      "r": 0,
+      "g": 0,
+      "b": 0
+    }
+  ]
+}
