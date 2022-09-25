@@ -1,0 +1,9 @@
+{
+  "flavor": "CUSTOM",
+  "availability": "AVAILABLE",
+  "alignment": {
+    "vertical": "TOP",
+    "horizontal": "LEFT"
+  },
+  "autogenTitle": true
+}
