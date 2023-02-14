@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "riskrieg",
+      "script": "./shell_run.sh"
+    }
+  ]
+}
