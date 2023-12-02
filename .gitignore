@@ -3,4 +3,5 @@ res/auth/auth.json
 res/saves/*
 node_modules/*
 res/colors/players_backup.json
-turn_pinging_robot/*
+res/turn_pinging_robot
+res/turn_pinging_robot/*
